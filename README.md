@@ -1,4 +1,4 @@
-# Moscow Mobile SPA Meetup №1
+# Moscow Mobile Frontend Meetup №1
 
 Первый [митап посвященный мобильному фронтенду](https://moscow-mobile-frontend.timepad.ru/event/217960/), который прошел в Москве в офисе [Авито](https://www.avito.ru/), 4 июля 2015 года.
 
